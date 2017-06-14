@@ -22710,7 +22710,7 @@ int signin(){
     cout << "|                                                                                                       |" << '\n';
     cout << "|                                                                                                       |" << '\n';
     cout << "---------------------------------------------------------------------------------------------------------)" << '\n';
-    if (username == "TyTyyoung" && password == "minecraft122@"){
+    if (username == "guest" && password == "guest"){
         comands();
     }
     else {
